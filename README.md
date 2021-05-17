@@ -50,13 +50,6 @@ foo@bar:~/Indoor-Scene-Recognition$ python3 app.py
 
 ------
 
-## Base Model :
-
-<img src="https://user-images.githubusercontent.com/66634743/110337208-16dfe900-803f-11eb-9c5a-9bffb07793e6.png" height=300 width=600>
-
-Image credits : [Link](https://ieeexplore.ieee.org/document/7946733)
-
-
 ## Our Models :
 
 ### Model 1 - 
