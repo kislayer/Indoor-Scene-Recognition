@@ -37,7 +37,7 @@ foo@bar:~/Indoor-Scene-Recognition$ python3 app.py
 > [utils.py](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/utils.py)<br/>
 > [models.py](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/models.py)
 
-### Folders Containing Pretrained Models
+### Pretrained Models
 > [H5](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/H5)<br/>
 > [models](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/models)
 
