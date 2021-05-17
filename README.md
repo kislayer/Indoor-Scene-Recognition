@@ -45,7 +45,7 @@ foo@bar:~/Indoor-Scene-Recognition$ python3 app.py
 > [requirements.txt](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/requirements.txt)
 
 ### Reports and PPT
-> [Reports](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/Reports)
+> [Reports](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/Reports)<br/>
 > [PPT](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/MINI%20PPT%20C2_3%20-%202021.pdf)
 
 ------
