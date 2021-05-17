@@ -23,6 +23,28 @@ foo@bar:~/Indoor-Scene-Recognition$ python3 app.py
 
 ------
 
+## Contents:
+
+There are Jupyter Notebook files also present [MMFM.ipynb](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/Final_MMFM.ipynb) and [Encoder.ipynb](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/Final_Encoder.ipynb) to get a better understanding of the code flow.
+
+### main GUI file:
+
+[app.py](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/app.py)
+
+
+### Utility files:
+[utils.py](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/utils.py)<br/>
+[models.py](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/models.py)
+
+### Folders Containing Pretrained Models
+[H5](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/H5)<br/>
+[models](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/models)
+
+### Dependencies
+[requirements.txt](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/requirements.txt)
+
+------
+
 ## Base Model :
 
 <img src="https://user-images.githubusercontent.com/66634743/110337208-16dfe900-803f-11eb-9c5a-9bffb07793e6.png" height=300 width=600>
