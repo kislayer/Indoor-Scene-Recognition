@@ -25,7 +25,10 @@ foo@bar:~/Indoor-Scene-Recognition$ python3 app.py
 
 ## Contents:
 
-There are Jupyter Notebook files also present [MMFM.ipynb](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/Final_MMFM.ipynb) and [Encoder.ipynb](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/Final_Encoder.ipynb) to get a better understanding of the code flow.
+### Jupyter Notebook Files:
+> [MMFM.ipynb](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/Final_MMFM.ipynb)<br/>
+> [Encoder.ipynb](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/Final_Encoder.ipynb)
+
 
 ### Main GUI File:
 > [app.py](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/app.py)
