@@ -33,7 +33,6 @@ foo@bar:~/Indoor-Scene-Recognition$ python3 app.py
 ### Main GUI File:
 > [app.py](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/app.py)
 
-
 ### Utility files:
 > [utils.py](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/utils.py)<br/>
 > [models.py](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/models.py)
@@ -44,6 +43,10 @@ foo@bar:~/Indoor-Scene-Recognition$ python3 app.py
 
 ### Dependencies
 > [requirements.txt](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/requirements.txt)
+
+### Reports and PPT
+> [Reports](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/Reports)
+> [PPT](https://github.com/XXDIL/Indoor-Scene-Recognition/blob/main/MINI%20PPT%20C2_3%20-%202021.pdf)
 
 ------
 
