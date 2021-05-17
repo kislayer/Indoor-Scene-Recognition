@@ -1,6 +1,6 @@
-# Indoor Scene Recognition using a Hybrid Model
+# Indoor Scene Recognition
 
-<center> <h2>Group Members:</h2> </center>
+## Group Members:
 
 | Name | Roll Number |
 | - | - |
@@ -9,6 +9,17 @@
 | Manav Agrawal | IIT2018178 |
 | Mohammed Aadil | IIT2018179 |
 | Ankit Rauniyar | IIT2018202 |
+
+------
+
+## Installation:
+
+```console
+foo@bar:~$ git clone https://github.com/XXDIL/Indoor-Scene-Recognition.git
+foo@bar:~/Indoor-Scene-Recognition$ cd Indoor-Scene-Recognition
+foo@bar:~/Indoor-Scene-Recognition$ pip3 install -r requirements.txt
+foo@bar:~/Indoor-Scene-Recognition$ python3 app.py
+```
 
 ------
 
