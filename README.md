@@ -4,10 +4,10 @@
 
 | Name | Roll Number |
 | - | - |
-| Kisalaya Kishore | IIT2018079 |
-| Milan Bhuva | IIT2018176 |
-| Manav Agrawal | IIT2018178 |
-| Mohammed Aadil | IIT2018179 |
+| [Kisalaya Kishore](https://github.com/kislayer) | IIT2018079 |
+| [Milan Bhuva](https://github.com/MB557) | IIT2018176 |
+| [Manav Agrawal](https://github.com/mka2011) | IIT2018178 |
+| [Mohammed Aadil](https://github.com/XXDIL) | IIT2018179 |
 | Ankit Rauniyar | IIT2018202 |
 
 ------
