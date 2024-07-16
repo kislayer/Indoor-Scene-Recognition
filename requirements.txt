@@ -47,3 +47,4 @@ typing-extensions==3.7.4.3
 urllib3==1.26.4
 Werkzeug==2.0.0
 wrapt==1.12.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
